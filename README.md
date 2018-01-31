@@ -1,2 +1,3 @@
 # hello-world
 My first repository
+This is me, learning to Git, or something...
